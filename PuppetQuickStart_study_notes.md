@@ -1,7 +1,7 @@
 ---
 title: Linux Networking course notes
 Created: 2016/07/02
-Last modified: 2019/07/02 18:43:48
+Last modified: 2019/07/02 18:51:44
 ---
 
 # Table of Contents
@@ -22,7 +22,7 @@ Last modified: 2019/07/02 18:43:48
 - [Facter and params.pp](#Facter-and-paramspp)
 
 # Notes
-Interactive Course Guide!: https://interactive.linuxacademy.com/diagrams/ThePuppetProject.html
+Interactive Course Guide <https://interactive.linuxacademy.com/diagrams/ThePuppetProject.html>
 
 # Puppet Master/Server Setup
 
